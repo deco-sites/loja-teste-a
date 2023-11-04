@@ -1,1 +1,1 @@
-export { default } from "$store/components/ui/Live.tsx";
+export { default } from "deco-sites/loja-teste-a/components/ui/Live.tsx";

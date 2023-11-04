@@ -33,8 +33,9 @@ import * as $$$$$$26 from "./sections/Product/ProductShelf.tsx";
 import * as $$$$$$27 from "./sections/Product/SearchResult.tsx";
 import * as $$$$$$28 from "./sections/Product/Wishlist.tsx";
 import * as $$$$$$29 from "./sections/Social/InstagramPosts.tsx";
-import * as $$$$$$30 from "./sections/Social/WhatsApp.tsx";
-import * as $$$$$$31 from "./sections/Theme/Theme.tsx";
+import * as $$$$$$30 from "./sections/Social/Live.tsx";
+import * as $$$$$$31 from "./sections/Social/WhatsApp.tsx";
+import * as $$$$$$32 from "./sections/Theme/Theme.tsx";
 import * as $$$$$$$$$$$0 from "./apps/decohub.ts";
 import * as $$$$$$$$$$$1 from "./apps/site.ts";
 
@@ -69,15 +70,15 @@ const manifest = {
     "deco-sites/loja-teste-a/sections/Miscellaneous/CookieConsent.tsx":
       $$$$$$22,
     "deco-sites/loja-teste-a/sections/Newsletter/Newsletter.tsx": $$$$$$23,
-    "deco-sites/loja-teste-a/sections/Newsletter/NewsletterModal.tsx":
-      $$$$$$24,
+    "deco-sites/loja-teste-a/sections/Newsletter/NewsletterModal.tsx": $$$$$$24,
     "deco-sites/loja-teste-a/sections/Product/ProductDetails.tsx": $$$$$$25,
     "deco-sites/loja-teste-a/sections/Product/ProductShelf.tsx": $$$$$$26,
     "deco-sites/loja-teste-a/sections/Product/SearchResult.tsx": $$$$$$27,
     "deco-sites/loja-teste-a/sections/Product/Wishlist.tsx": $$$$$$28,
     "deco-sites/loja-teste-a/sections/Social/InstagramPosts.tsx": $$$$$$29,
-    "deco-sites/loja-teste-a/sections/Social/WhatsApp.tsx": $$$$$$30,
-    "deco-sites/loja-teste-a/sections/Theme/Theme.tsx": $$$$$$31,
+    "deco-sites/loja-teste-a/sections/Social/Live.tsx": $$$$$$30,
+    "deco-sites/loja-teste-a/sections/Social/WhatsApp.tsx": $$$$$$31,
+    "deco-sites/loja-teste-a/sections/Theme/Theme.tsx": $$$$$$32,
   },
   "apps": {
     "deco-sites/loja-teste-a/apps/decohub.ts": $$$$$$$$$$$0,
